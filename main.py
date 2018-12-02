@@ -17,8 +17,7 @@ async def on_ready():
     print(client.user.id)
     print('------')
     print('Made by Sh00t with ❤')
-    print('Discord - Sh00t#0001')
-    print('Twitter - https://twitter.com/zollerszn')
+    print('Twitter - https://twitter.com/learningszn')
     print('------')
 
 #STASHBOT
