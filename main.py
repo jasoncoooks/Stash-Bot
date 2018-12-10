@@ -8,7 +8,7 @@ from urllib.parse import urljoin
 
 client = discord.Client()
 
-#STARTUP MESSAGE WHEN READY
+#STARTUP MESSAGE WHEN READY#
 @client.event
 async def on_ready():
     print('------')
